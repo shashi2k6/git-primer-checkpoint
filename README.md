@@ -5,7 +5,7 @@ Practice with git and github.com
 Few git commands to remember :
 ---
 
-1. git init
+1. `git init`
 2. git add .
 3. git commit -m "message"
 4. git remote add origin "github.com/your_repo.git"
