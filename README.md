@@ -4,7 +4,6 @@ Practice with git and github.com
 
 Few git commands to remember :
 ---
----
 
 1. git init
 2. git add .
