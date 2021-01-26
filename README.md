@@ -3,7 +3,7 @@
 Practice with git and github.com
 
 Cloned from gSchool/git-primer-checkpoint.
-
+---
 
 1. git init
 2. git add .
