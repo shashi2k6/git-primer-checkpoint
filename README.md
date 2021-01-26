@@ -12,7 +12,7 @@ Cloned from gSchool/git-primer-checkpoint.
 5. git push -u origin master
 
 6. git clone <url.git>
-7. git branch <branch name>
+7. git branch (branch name)
 8. git branch
-9. git checkout <branch name>
-10. git diff <branch1> <branch2>
+9. git checkout (branch name)
+10. git diff (branch1) (branch2)
