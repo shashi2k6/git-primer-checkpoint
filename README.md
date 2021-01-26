@@ -2,7 +2,8 @@
 
 Practice with git and github.com
 
-Cloned from gSchool/git-primer-checkpoint.
+Few git commands to remember :
+---
 ---
 
 1. git init
